@@ -1,4 +1,4 @@
-#Identifying Information:
+# Identifying Information:
 1. Name: Ian Hakeman
 2. Student ID: 2338119
 3. Email: hakeman@chapman.edu
@@ -29,14 +29,14 @@ The program will display the lines of the My_old_cars file, sorted by year
 ### If the user chooses to Quit  
 The program will display a “Goodbye” message and exit.
 
-#Files
+# Files
 1. cars.sh
 2. cars-input
 3. My_old_cars
 
-#Known Errors
+# Known Errors
 
-#References
+# References
 
-#Instructions
+# Instructions
 To run the script with input from the included cars-input file: ./cars.sh < cars-input
